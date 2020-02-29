@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//Sorry idk what happaned with format
 #include <Windows.h>
 #define MAX_ROW 100
 #define MAX_COLLOM 100
